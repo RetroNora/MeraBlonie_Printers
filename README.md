@@ -5,3 +5,4 @@ It is an archive for all the MERA Błonie printers I got, for now it has materia
 ## D100M (CBM serial bus version) (EPROMS for printer with PETSCII and Centronix-CBM converter EPROM)
 ## D100EPC (EPROMS + Docs)
 ## D100MPC (EPROMS)
+## EC7189 (EPROMS)
